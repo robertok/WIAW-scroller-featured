@@ -1,0 +1,1 @@
+smc 7904 always static ip
